@@ -63,3 +63,5 @@ C:\Users\iago.alves\source\repos\VendasLanche\VendasLanche\obj\Debug\net6.0\Vend
 C:\Users\iago.alves\source\repos\VendasLanche\VendasLanche\obj\Debug\net6.0\VendasLanche.genruntimeconfig.cache
 C:\Users\iago.alves\source\repos\VendasLanche\VendasLanche\obj\Debug\net6.0\ref\VendasLanche.dll
 C:\Users\iago.alves\source\repos\VendasLanche\VendasLanche\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\iago.alves\source\repos\VendasLanche\VendasLanche\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iago.alves\source\repos\VendasLanche\VendasLanche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

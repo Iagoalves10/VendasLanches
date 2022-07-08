@@ -1,5 +1,7 @@
 ﻿using FluentAssertions.Common;
+using Microsoft.EntityFrameworkCore;
 using System;
+using VendasLanche.Context;
 
 namespace VendasLanche
 {
@@ -14,6 +16,8 @@ namespace VendasLanche
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<AppDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));  
             services.AddControllersWithViews();
         }
 
